@@ -1,1 +1,4 @@
 Flask
+Flask-WTF
+wtforms==3.0.1
+flask-form==1.0.0
